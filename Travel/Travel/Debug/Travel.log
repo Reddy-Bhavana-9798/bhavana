@@ -1,0 +1,248 @@
+﻿  main.cpp
+c:\users\bhavana\source\repos\travel\travel\main.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(4): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(57): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(58): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(59): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(60): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(61): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(66): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(67): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(68): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(69): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(74): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(75): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(76): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(82): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(83): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(84): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(85): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(90): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(91): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(92): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(93): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(98): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(99): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(103): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(104): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(109): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(110): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(111): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(112): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(117): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(118): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(122): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(123): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(130): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(131): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(132): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(133): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(138): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(139): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(140): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(141): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(146): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(147): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(148): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(149): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(153): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(154): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(155): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(156): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(157): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(162): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(163): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(164): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(165): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(169): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(170): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(171): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(172): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(173): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(179): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(180): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(185): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(186): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(191): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(192): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(198): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(199): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(200): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(201): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(209): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(210): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(211): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(212): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(213): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(219): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(220): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(221): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(224): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(225): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(230): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(231): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(232): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(235): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(236): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(242): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(243): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(244): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(247): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(248): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(254): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(255): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(256): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(259): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(260): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(266): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(267): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(268): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(271): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(272): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(278): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(279): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(280): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(283): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(284): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(290): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(291): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(292): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(295): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(296): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(302): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(303): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(304): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(307): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(308): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(314): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(315): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(316): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(319): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(320): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(326): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(327): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(328): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(331): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(332): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(338): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(339): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(340): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(343): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(344): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(350): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(351): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(352): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(355): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(356): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(362): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(363): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(364): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(367): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(368): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(374): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(375): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(376): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(379): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(380): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(385): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(386): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(387): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(390): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(391): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(397): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(398): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(399): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(402): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(403): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(408): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(409): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(410): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(413): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(414): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(420): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(421): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(422): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(425): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(426): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(432): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(433): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(434): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(437): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(438): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(444): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(445): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(446): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(449): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(450): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(456): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(457): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(458): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(461): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(462): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(507): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(508): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame1.h(540): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(550): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(559): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(582): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(592): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(601): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame1.h(611): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(33): warning C4244: '+=': conversion from 'double' to 'GLint', possible loss of data
+c:\users\bhavana\source\repos\travel\travel\frame2.h(102): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(110): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(143): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(144): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(148): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(150): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(153): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(160): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(164): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(166): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(169): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(175): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(176): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(180): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(182): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(185): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(191): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(192): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(196): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(198): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(201): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(208): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(209): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(217): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(226): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(227): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(235): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(236): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(244): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(245): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(253): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(254): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(262): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(263): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(271): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(272): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(280): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(281): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(289): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(290): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(342): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(343): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(351): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(352): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(360): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(361): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(369): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(370): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(378): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(379): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(387): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\frame2.h(388): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\bhavana\source\repos\travel\travel\main.cpp(58): warning C4101: 'i': unreferenced local variable
+  Travel.vcxproj -> C:\Users\Bhavana\source\repos\Travel\Debug\Travel.exe
